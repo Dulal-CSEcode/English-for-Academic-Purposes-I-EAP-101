@@ -23,7 +23,7 @@ Welcome to the English for Academic Purposes I (EAP-101) repository. This reposi
 
 In this course, we will focus on developing the necessary academic language skills for effective communication in an academic environment. Topics include reading comprehension, academic writing, listening, and speaking. The repository provides comprehensive materials to help you improve your proficiency in these areas.
 
-Check out the playlist now and start your learning journey: [Youtube Playlist Link](https://youtube.com/playlist?list=PLEc-WcPXUsjsm4_JTG3Pvc7wgva-cx3yQ&si=gipLEXV_A_A8tfdd)  
+Check out the playlist now and start your learning journey: [English-for-Academic-Purposes-I-EAP-101 Youtube Playlist Link](https://youtube.com/playlist?list=PLEc-WcPXUsjv9C7BdSSIxwcs_8PayILuO&si=Lta-3LDVbecLHwc0)  
 **Happy Learning!**
 
 ## Course Outline  //  Day Contents
